@@ -1,4 +1,10 @@
-### Hi there 👋
+## 🌟 Hello, My Name is Destyn Carlton 🌟
+
+## _About Me_
+- 📌 I am currently a senior at the University of Kentucky 
+- 📚 I am studying Computer Science with a minor in Business
+
+
 
 <!--
 **destyncarlton/destyncarlton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
